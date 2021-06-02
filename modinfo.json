@@ -1,6 +1,6 @@
 {
 	"name": "Orcs and Humans - ALPHA",
-	"description": "This an empty test mod.  You can use it for experimenting with things, but you should create a new mod (and give it a good unique name) before you start working on something you want to distribute.",
+	"description": "In the Age of Chaos, two factions battled for dominance. The Kingdom of Azeroth was a prosperous one. The Humans who dwelled there turned the land into a paradise. The Knights of Stormwind, and the Clerics of Northshire Abbey, roamed far and wide serving the king's people with honor and justice. The well-trained armies of the King maintained a lasting peace for many generations. Then came the Orcish Hordes.\n\nNo one knew where these creatures came from, and none were prepared for the terror that they spawned. Their warriors wielded axe and spear with deadly proficiency, while others rode Darkwolves as black as the moonless night. Unimagined were the destructive powers of their evil magic, derived from the fires of the underworld.\n\nWith an ingenious arsenal of weaponry and powerful magic, these two forces collide in a contest of cunning, intellect, and brute strength, with the victor claiming dominance over the whole of Azeroth. Welcome to the world of Warcraft.",
 	"changeNote": "",
 	"author": "",
 	"authorUrl": "",
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "",
 	"steamVisibility": 1,
 	"folderName": "OrcsAndHumans",
-	"revisionNumber": 297252,
+	"revisionNumber": 298246,
 	"snapshotId": 29491
 }
