@@ -1,18 +1,18 @@
 {
-	"name": "Orcs and Humans - v0.1.2",
+	"name": "Orcs and Humans - v0.1.3",
 	"description": "[h1]Orcs and Humans[/h1]\n[b]Mod-ID[/b]: 2508667158\n[b]Full Path[/b]: /Game/Mods/OrcsAndHumans/Maps/OrcsAndHumans\n\nExperience a somewhat familiar world, with a twist or two.\n[hr]\nExtended NPC support for\n[list]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2501015124]Kalimdor Exiles[/url]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1113901982]The Age of Calamitous[/url]\n[/list]\n[hr]\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat",
-	"changeNote": "2023-06-22 - Orcs and Humans - v0.1.2\n- some minor upates for Age of War.",
+	"changeNote": "2023-09-21 - Orcs and Humans - v0.1.3\n- some minor upates for Age of War Chapter 2.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat",
 	"versionMajor": 0,
 	"versionMinor": 1,
-	"versionBuild": 2,
+	"versionBuild": 3,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2508667158",
 	"steamTestLivePublishedFileId": "2867490305",
 	"steamVisibility": 0,
 	"folderName": "OrcsAndHumans",
-	"revisionNumber": 507299,
-	"snapshotId": 37516,
+	"revisionNumber": 541658,
+	"snapshotId": 38526,
 	"fileSize": -2
 }
