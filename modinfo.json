@@ -1,7 +1,7 @@
 {
-	"name": "Orcs and Humans - v0.1.6",
+	"name": "Orcs and Humans - v0.1.7",
 	"description": "[h1]Orcs and Humans[/h1]\n[b]Mod-ID[/b]: 2508667158\n[b]Full Path[/b]: /Game/Mods/OrcsAndHumans/Maps/OrcsAndHumans\n\nExperience a somewhat familiar world, with a twist or two.\nThis map reimagines the Eastern Kingdoms at the time of the First War when the Horde first invaded Azeroth.\n[hr]\nExtended NPC support for\n[list]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2501015124]Kalimdor Exiles[/url]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1113901982]The Age of Calamitous[/url]\n[/list]\n[hr]\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat\n\nWarcraft: Orcs & Humans, World of Warcraft are trademarks or registered trademarks of Blizzard Entertainment, Inc.",
-	"changeNote": "2024-06-07 - Orcs and Humans - v0.1.7\n- fixed spawns to work with the reupload of Kalimdor Exiles.",
+	"changeNote": "2024-06-26 - Orcs and Humans - v0.1.7\n- fixed spawns to work with the reupload of Kalimdor Exiles.\n- added tons of decorations to booty bay.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat",
 	"versionMajor": 0,
@@ -12,7 +12,7 @@
 	"steamTestLivePublishedFileId": "2867490305",
 	"steamVisibility": 0,
 	"folderName": "OrcsAndHumans",
-	"revisionNumber": 738062,
-	"snapshotId": 40768,
+	"revisionNumber": 992899,
+	"snapshotId": 42399,
 	"fileSize": -2
 }
